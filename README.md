@@ -1,6 +1,6 @@
 # flutter_login
 
-A new Flutter project.
+An organization of pets caring, non-profit app to organize animals, track their status, and facilitate user communication with pet managers. The app also includes a special feature to provide users with the top 3 pet recommendations based on their preferences.
 
 ## Getting Started
 
