@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">611343030352-heq86rlqv3gne1fbik0vooal5p1cvfdd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">611343030352</string>
+    <string name="google_api_key" translatable="false">AIzaSyD48fUCte5k7fVyyeX5N5iPE7x_Es6gviU</string>
+    <string name="google_app_id" translatable="false">1:611343030352:android:6aabaa816f67cbfe5ed955</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD48fUCte5k7fVyyeX5N5iPE7x_Es6gviU</string>
+    <string name="google_storage_bucket" translatable="false">pets-org.appspot.com</string>
+    <string name="project_id" translatable="false">pets-org</string>
+</resources>

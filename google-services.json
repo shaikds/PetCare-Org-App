@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600466722462",
+    "project_id": "petcareorg-ebb37",
+    "storage_bucket": "petcareorg-ebb37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600466722462:android:b9cbc1d71d6e8d0bcef58f",
+        "android_client_info": {
+          "package_name": "com.shaikds.petCareOrg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73aaWRdwe1hEncqHn4hRcvitLdTPHprs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
